@@ -181,3 +181,10 @@ Credits:
 - TkinterDnD2 - Drag-and-drop functionality
 
 ================================================================================
+
+Usage TLDR: 
+1. Install Python and dependencies.
+2. download UI_Combine.py into a working folder with all the pictures to combine.
+3. If you're using windows, can download the 1combine.bat into the same folder.
+4. Double click .bat file to run, or cmd and use python ui_combine.py to run.
+5. Drag and Drop and click green process button at the bottom (might need to resize window if it's missing)
