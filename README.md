@@ -1,5 +1,10 @@
 # SimpleCollage
 A simple drag and drop collage maker using python. Great for creating a simple single picture to compare two existing pictures. Build with AI.
+
+Sample output:
+<img width="4202" height="2560" alt="SimpleCombine sample - Fujifilm Filter preview" src="https://github.com/user-attachments/assets/17e1ea80-eb45-46e1-984b-4e80e6284357" />
+
+
 ================================================================================
                             IMAGE COMBINER - README
 ================================================================================
